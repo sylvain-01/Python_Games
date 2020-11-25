@@ -7,3 +7,4 @@ Games include:
 - Hangman
 - Rock, Paper, Scissors
 - Flappy Bird 
+- Tic Tac Toe

@@ -8,3 +8,4 @@ Games include:
 - Rock, Paper, Scissors
 - Flappy Bird 
 - Tic Tac Toe
+- Connct Four

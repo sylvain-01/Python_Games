@@ -9,3 +9,4 @@ Games include:
 - Flappy Bird 
 - Tic Tac Toe
 - Connct Four
+- Snake Game

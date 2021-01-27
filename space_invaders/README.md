@@ -1,3 +1,5 @@
+# Space Invader
+
 Classic space invader game created with pygame library. Also used sys, random & time library. 
 
 Project consists of one python file with all the code & an asset folder that consist of an image folder & sound folder that contails all the images & sounds needed for my remake of the classic game. 
